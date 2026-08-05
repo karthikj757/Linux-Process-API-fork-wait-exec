@@ -49,8 +49,8 @@ int main() {
 
 ## OUTPUT
 
-![img01](img/img01.png)
 
+![Alt text](img01.png)
 
 
 
@@ -111,8 +111,7 @@ int main() {
 ## OUTPUT
 
 
-![Alt text](../img/img02.png)
-![Alt text](../img/img02.png)
+![Alt text](img02.png)
 
 
 
